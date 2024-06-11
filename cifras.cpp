@@ -4,6 +4,7 @@
 #include <iostream>
 #include <math.h>
 
+//DOCUMENTE LA FUNCION
 int cantidadCifras(int numero) {
     if (numero == 0) {
         return 1;
