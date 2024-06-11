@@ -7,6 +7,8 @@
 #include <time.h>
 using namespace std;
 
+//DOCUMENTE LA FUNCION
+
 int SumaNumAleatorios(int cantidad, int limiteInferior, int limiteSuperior) {
     srand(time(0)); // Inicializa la semilla para el generador de números aleatorios
     int suma = 0;
